@@ -1,33 +1,45 @@
-//1c.2Write a Java program to iterate a linked list in reverse order (using
-//objlist.descendingIterator())
-package listoperations;
+//3c.Q7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
+//defined function truncate()
+package stringoperations;
 
-import java.util.LinkedList;
-import java.util.Iterator;
+import java.util.Scanner;
 
 public class p7 {
+
+    // User-defined function to truncate string
+    public static String truncate(String str, int length) {
+
+        if (str == null) {
+            return null;
+        }
+
+        // If string length is less than or equal to required length
+        if (str.length() <= length) {
+            return str;
+        }
+
+        // Otherwise truncate and add ellipsis
+        return str.substring(0, length) + "...";
+    }
+
     public static void main(String[] args) {
 
-        // Creating LinkedList
-        LinkedList<String> objlist = new LinkedList<>();
+        Scanner sc = new Scanner(System.in);
 
-        // Adding elements
-        objlist.add("Red");
-        objlist.add("Blue");
-        objlist.add("Green");
-        objlist.add("Yellow");
-        objlist.add("White");
+        // Input string
+        System.out.print("Enter a string: ");
+        String input = sc.nextLine();
 
-        // Display original list
-        System.out.println("Original LinkedList: " + objlist);
+        // Input length
+        System.out.print("Enter maximum length: ");
+        int len = sc.nextInt();
 
-        // Using descendingIterator for reverse iteration
-        Iterator<String> iterator = objlist.descendingIterator();
+        // Call function
+        String result = truncate(input, len);
 
-        // Iterating in reverse order
-        System.out.print("Reverse order: ");
-        while (iterator.hasNext()) {
-            System.out.print(iterator.next() + " ");
-        }
+        // Output result
+        System.out.println("Truncated String: " + result);
+
+        sc.close();
     }
 }

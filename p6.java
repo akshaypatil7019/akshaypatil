@@ -1,33 +1,41 @@
-//1c.1Write a Java program to iterate through all elements in a linked list starting at the
-//specified position ( 2 nd ) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
-package listoperations;
+//3c.Q6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
+//capitalizeWords()
+package stringoperations;
 
-import java.util.LinkedList;
-import java.util.ListIterator;
+import java.util.Scanner;
 
 public class p6 {
+
+    // User-defined function to capitalize words
+    public static String capitalizeWords(String str) {
+
+        String[] words = str.split("\\s+");
+        String result = "";
+
+        for (String word : words) {
+            if (word.length() > 0) {
+                result += Character.toUpperCase(word.charAt(0)) 
+                          + word.substring(1).toLowerCase() + " ";
+            }
+        }
+
+        return result.trim();
+    }
+
     public static void main(String[] args) {
 
-        // Creating LinkedList
-        LinkedList<String> listobj = new LinkedList<>();
+        Scanner sc = new Scanner(System.in);
 
-        // Adding elements
-        listobj.add("Red");
-        listobj.add("Blue");
-        listobj.add("Green");
-        listobj.add("Yellow");
-        listobj.add("White");
+        // Input string
+        System.out.print("Enter a sentence: ");
+        String input = sc.nextLine();
 
-        // Display original list
-        System.out.println("LinkedList: " + listobj);
+        // Call function
+        String output = capitalizeWords(input);
 
-        // Creating iterator starting from index 1 (2nd position)
-        ListIterator<String> iteratorobj = listobj.listIterator(1);
+        // Output result
+        System.out.println("Capitalized String: " + output);
 
-        // Iterating from 2nd position
-        System.out.print("Elements from 2nd position: ");
-        while (iteratorobj.hasNext()) {
-            System.out.print(iteratorobj.next() + " ");
-        }
+        sc.close();
     }
 }

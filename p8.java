@@ -1,27 +1,43 @@
-//1c.3Write a Java program to insert the specified element at the end of a linked list.( using
-//l_listobj.offerLast(&quot;Pink&quot;))
-package listoperations;
+//3c.Q8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
+//function isNumeric()
+package stringoperations;
 
-import java.util.LinkedList;
+import java.util.Scanner;
 
 public class p8 {
+
+    // User-defined function to check numeric string
+    public static boolean isNumeric(String str) {
+
+        if (str == null || str.isEmpty()) {
+            return false;
+        }
+
+        // Check each character
+        for (int i = 0; i < str.length(); i++) {
+            if (!Character.isDigit(str.charAt(i))) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
     public static void main(String[] args) {
 
-        // Creating LinkedList
-        LinkedList<String> l_listobj = new LinkedList<>();
+        Scanner sc = new Scanner(System.in);
 
-        // Adding elements
-        l_listobj.add("Red");
-        l_listobj.add("Blue");
-        l_listobj.add("Green");
+        // Input string
+        System.out.print("Enter a string: ");
+        String input = sc.nextLine();
 
-        // Display original list
-        System.out.println("Original LinkedList: " + l_listobj);
+        // Check numeric
+        if (isNumeric(input)) {
+            System.out.println("The string contains only numeric characters.");
+        } else {
+            System.out.println("The string does NOT contain only numeric characters.");
+        }
 
-        // Inserting element at the end using offerLast()
-        l_listobj.offerLast("Pink");
-
-        // Display updated list
-        System.out.println("After adding 'Pink' at end: " + l_listobj);
+        sc.close();
     }
 }
