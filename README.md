@@ -69,3 +69,12 @@ https://github.com/akshaypatil7019/akshaypatil/blob/main/3c9.png
 
 3c10-o\plink:
 https://github.com/akshaypatil7019/akshaypatil/blob/main/3c10.png
+
+4a-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/4a.png
+
+4b-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/4b.png
+
+4c-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/4c.png
