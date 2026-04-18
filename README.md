@@ -78,3 +78,16 @@ https://github.com/akshaypatil7019/akshaypatil/blob/main/4b.png
 
 4c-o\plink:
 https://github.com/akshaypatil7019/akshaypatil/blob/main/4c.png
+
+5a-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/5a.png
+
+5b-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/5b.png
+
+5c-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/5c.png
+
+5d-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/5d.png
+
