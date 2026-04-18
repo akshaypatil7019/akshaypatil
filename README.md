@@ -142,6 +142,32 @@ https://github.com/akshaypatil7019/akshaypatil/blob/main/8B.png
 8b1-o\plink:
 https://github.com/akshaypatil7019/akshaypatil/blob/main/8b1.png
 
+9A-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/9A.png
+
+9B-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/9B.png
+
+9B1-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/9B1.png
+
+9B2-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/9B2.png
+
+9C-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/9C.png
+
+9C1-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/9C1.png
+
+9C2-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/9C2.png
+
+9C4-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/9C4.png
+
+
+
 
 
 
