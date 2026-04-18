@@ -109,5 +109,26 @@ https://github.com/akshaypatil7019/akshaypatil/blob/main/6c.png
 6c1-o\plink:
 https://github.com/akshaypatil7019/akshaypatil/blob/main/6c1.png
 
+7a-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/7a.png
+
+7a1-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/7a1.png
+
+7a2-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/7a2.png
+
+7b-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/7b.png
+
+7b1-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/7b1.png
+
+7b2-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/7b2.png
+
+7b3-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/7b3.png
+
 
 
