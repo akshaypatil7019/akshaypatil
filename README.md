@@ -130,5 +130,18 @@ https://github.com/akshaypatil7019/akshaypatil/blob/main/7b2.png
 7b3-o\plink:
 https://github.com/akshaypatil7019/akshaypatil/blob/main/7b3.png
 
+8A-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/8A.png
+
+8A1-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/8A1.png
+
+8B-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/8B.png
+
+8b1-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/8b1.png
+
+
 
 
