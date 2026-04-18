@@ -30,3 +30,9 @@ https://github.com/akshaypatil7019/akshaypatil/blob/main/1c4.png
 
 1c5-o\plink:
 https://github.com/akshaypatil7019/akshaypatil/blob/main/1c5.png
+
+2a-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/2a.png
+
+2b-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/2b.png
