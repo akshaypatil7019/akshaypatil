@@ -166,6 +166,18 @@ https://github.com/akshaypatil7019/akshaypatil/blob/main/9C2.png
 9C4-o\plink:
 https://github.com/akshaypatil7019/akshaypatil/blob/main/9C4.png
 
+10A-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/10A.png
+
+10A1-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/10A1.png
+
+10b-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/10b.png
+
+10b1-o\plink:
+https://github.com/akshaypatil7019/akshaypatil/blob/main/10b1.png
+
 
 
 
